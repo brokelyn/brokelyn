@@ -37,6 +37,7 @@ I am Philipp, a software developer currently working and living in Sweden 🍂
   &nbsp;
   <img src="https://img.shields.io/badge/Godot-282C34?logo=Godot Engine&logoColor=#478CBF" alt="Godot Logo" title="Godot" height="25" />
 </div>
+
 ## 📚  Interested in these topics
 
 <div style="display: flex; gap: 2px; flex-wrap: wrap"> 
