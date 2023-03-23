@@ -1,6 +1,6 @@
 # Hejsan! 🚀
 
-I am Philipp. I am a developer currently working and living in Sweden 🍂
+I am Philipp, a software developer currently working and living in Sweden 🍂
 
 ## 🛠  Technologies and Tools
 
