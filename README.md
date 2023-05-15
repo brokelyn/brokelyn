@@ -53,7 +53,7 @@ I am Philipp, a software developer currently working and living in Sweden 🍂
 
 ## 💾 Other non Open Source Projects
 
-These are projects are build by myself or I helped building them
+These are projects that are build by myself or I helped building them
 
 <table>
   <thead align="center">
