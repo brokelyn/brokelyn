@@ -4,7 +4,9 @@ I am Philipp, a software developer currently working and living in Sweden 🍂
 
 ## 🛠 Technologies and Tools
 
-<div style="display: flex; gap: 2px; flex-wrap: wrap"> 
+<div style="display: flex; gap: 2px; flex-wrap: wrap">
+  <img src="https://img.shields.io/badge/Svelte-282C34?logo=Svelte&logoColor=#FF3E00" alt="Svelte logo" title="Svelte" height="25" />
+  &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
   &nbsp;
   <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
