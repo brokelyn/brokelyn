@@ -62,6 +62,7 @@ These are projects that are build by myself or I helped building them
     <tr border: none;>
       <td><b>🛰 Project</b></td>
       <td><b>👾 Description</b></td>
+      <td><b>🛠️ Tech Stack</b></td>
       <td><b>🔗 Link</b></td>
     </tr>
   </thead>
@@ -69,21 +70,25 @@ These are projects that are build by myself or I helped building them
     <tr>
       <td><b> URoC Website </b></td>
       <td> Homepage of a Roundnet Club in Uppsala </td>
+      <td> Nuxt.js, TailwindCss and Contentful </td>
       <td><a href="www.uroc.se"> uroc.se </a></td>
     </tr>
     <tr>
       <td><b> StaDiff Quiz </b></td>
       <td> A music quiz using stabel diffusion </td>
+      <td> Vue.js, Node.js and Postgres </td>
       <td><a href="https://stable-diffusion-quiz-web-cb3c6v4lya-lz.a.run.app/"> StaDiff Quiz </a></td>
     </tr>
     <tr>
       <td><b> T A C O </b></td>
       <td> An improved ChatGPT frontend with shared API key </td>
+      <td> Svelte Kit, Prisma and Postgres </td>
       <td><a href="taco.prototyp.se"> TACO </a></td>
     </tr>
 	  <tr>
       <td><b> Talentsverse Website </b></td>
       <td> Homepage of a new web3 based social media platform </td>
+      <td> Vue.js, Firebase and Contentful </td>
       <td><a href="talentsverse.com"> talentsverse.com </a></td>
     </tr>
   </tbody>
