@@ -70,7 +70,7 @@ These are projects that are build by myself or I helped building them
     <tr>
       <td><b> URoC Website </b></td>
       <td> Homepage of a Roundnet Club in Uppsala </td>
-      <td> Nuxt.js, TailwindCss and Contentful </td>
+      <td> Nuxt.js, TailwindCSS and Contentful </td>
       <td><a href="www.uroc.se"> uroc.se </a></td>
     </tr>
     <tr>
@@ -82,7 +82,7 @@ These are projects that are build by myself or I helped building them
     <tr>
       <td><b> T A C O </b></td>
       <td> An improved ChatGPT frontend with shared API key </td>
-      <td> Svelte Kit, Prisma and Postgres </td>
+      <td> Svelte Kit, Prisma, TailwindCSS Postgres </td>
       <td><a href="taco.prototyp.se"> TACO </a></td>
     </tr>
 	  <tr>
