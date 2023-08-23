@@ -76,6 +76,11 @@ These are projects that are build by myself or I helped building them
       <td> A music quiz using stabel diffusion </td>
       <td><a href="https://stable-diffusion-quiz-web-cb3c6v4lya-lz.a.run.app/"> StaDiff Quiz </a></td>
     </tr>
+    <tr>
+      <td><b> T A C O </b></td>
+      <td> An improved ChatGPT frontend with shared API key </td>
+      <td><a href="taco.prototyp.se"> TACO </a></td>
+    </tr>
 	  <tr>
       <td><b> Talentsverse Website </b></td>
       <td> Homepage of a new web3 based social media platform </td>
