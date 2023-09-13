@@ -83,13 +83,13 @@ These are projects that are build by myself or I helped building them
       <td><b> T A C O </b></td>
       <td> An improved ChatGPT frontend with shared API key </td>
       <td> Svelte Kit, Prisma, TailwindCSS Postgres </td>
-      <td><a href="taco.prototyp.se"> TACO </a></td>
+      <td><a href="www.taco.prototyp.se"> TACO </a></td>
     </tr>
 	  <tr>
       <td><b> Talentsverse Website </b></td>
       <td> Homepage of a new web3 based social media platform </td>
       <td> Vue.js, Firebase and Contentful </td>
-      <td><a href="talentsverse.com"> talentsverse.com </a></td>
+      <td><a href="www.talentsverse.com"> talentsverse.com </a></td>
     </tr>
   </tbody>
 </table>
