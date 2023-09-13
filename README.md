@@ -83,7 +83,7 @@ These are projects that are build by myself or I helped building them
       <td><b> T A C O </b></td>
       <td> An improved ChatGPT frontend with shared API key </td>
       <td> Svelte Kit, Prisma, TailwindCSS Postgres </td>
-      <td><a href="https://www.taco.prototyp.se"> TACO </a></td>
+      <td><a href="https://taco.prototyp.se"> TACO </a></td>
     </tr>
 	  <tr>
       <td><b> Talentsverse Website </b></td>
