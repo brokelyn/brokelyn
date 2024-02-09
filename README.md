@@ -70,7 +70,7 @@ These are projects that are build by myself or I helped building them
     <tr>
       <td><b> URoC Website </b></td>
       <td> Homepage of a Roundnet Club in Uppsala </td>
-      <td> Nuxt.js, TailwindCSS and Contentful </td>
+      <td> Svelte Kit, TailwindCSS and Contentful </td>
       <td><a href="https://www.uroc.se"> uroc.se </a></td>
     </tr>
     <tr>
