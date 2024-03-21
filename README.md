@@ -77,13 +77,13 @@ These are projects that are build by myself or I helped building them
       <td><b> StaDiff Quiz </b></td>
       <td> A music quiz using stabel diffusion </td>
       <td> Vue.js, Node.js and Postgres </td>
-      <td><a href="https://stable-diffusion-quiz-web-cb3c6v4lya-lz.a.run.app/"> StaDiff Quiz </a></td>
+      <td> Currently Offline </td>
     </tr>
     <tr>
       <td><b> T A C O </b></td>
       <td> An improved ChatGPT frontend with shared API key </td>
       <td> Svelte Kit, Prisma, TailwindCSS Postgres </td>
-      <td><a href="https://taco.prototyp.se"> TACO </a></td>
+      <td><a href="https://www.tacoai.app/"> www.tacoai.app/ </a></td>
     </tr>
 	  <tr>
       <td><b> Talentsverse Website </b></td>
