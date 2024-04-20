@@ -40,7 +40,7 @@ I am Philipp, a software developer currently working and living in Sweden 🍂
   <img src="https://img.shields.io/badge/Godot-282C34?logo=Godot Engine&logoColor=#478CBF" alt="Godot Logo" title="Godot" height="25" />
 </div>
 
-## 📚  Interested in these topics
+## 📚 Interested in these topics
 
 <div style="display: flex; gap: 2px; flex-wrap: wrap"> 
   <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=#E10098" alt="GraphQL logo" title="GraphQL" height="25" />
@@ -86,10 +86,10 @@ These are projects that are build by myself or I helped building them
       <td><a href="https://www.tacoai.app/"> www.tacoai.app/ </a></td>
     </tr>
 	  <tr>
-      <td><b> Talentsverse Website </b></td>
-      <td> Homepage of a new web3 based social media platform </td>
-      <td> Vue.js, Firebase and Contentful </td>
-      <td><a href="https://www.talentsverse.com"> talentsverse.com </a></td>
+      <td><b> Satsuma </b></td>
+      <td> A smart collaborative shopping list </td>
+      <td> Svelte Kit, Pocketbase </td>
+      <td><a href="https://main--satsuma-shopping.netlify.app/"> Satsuma </a></td>
     </tr>
   </tbody>
 </table>
