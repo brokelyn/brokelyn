@@ -89,7 +89,7 @@ These are projects that are build by myself or I helped building them
       <td><b> Satsuma </b></td>
       <td> A smart collaborative shopping list </td>
       <td> Svelte Kit, Pocketbase </td>
-      <td><a href="https://main--satsuma-shopping.netlify.app/"> Satsuma </a></td>
+      <td><a href="https://satsuma.lol/"> Satsuma </a></td>
     </tr>
   </tbody>
 </table>
