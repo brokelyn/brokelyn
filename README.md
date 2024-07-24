@@ -5,7 +5,7 @@ I am Philipp, a software developer currently working and living in Sweden 🍂
 ## 🛠 Technologies and Tools
 
 <div style="display: flex; gap: 2px; flex-wrap: wrap">
-  <img src="https://img.shields.io/badge/Svelte-282C34?logo=Svelte&logoColor=#FF3E00" alt="Svelte logo" title="Svelte" height="25" />
+  <img src="https://img.shields.io/badge/Svelte-282C34?logo=Svelte&logoColor=#FF3E00" alt="Svelte logo" title="Svelte Kit" height="25" />
   &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
   &nbsp;
@@ -53,9 +53,9 @@ I am Philipp, a software developer currently working and living in Sweden 🍂
   &nbsp;
 </div>
 
-## 💾 Other non Open Source Projects
+## 💾 Project Portfolio
 
-These are projects that are build by myself or I helped building them
+These are projects that are build by myself or where created in collaboration
 
 <table>
   <thead align="center">
@@ -77,19 +77,25 @@ These are projects that are build by myself or I helped building them
       <td><b> StaDiff Quiz </b></td>
       <td> A music quiz using stabel diffusion </td>
       <td> Vue.js, Node.js and Postgres </td>
-      <td> Currently Offline </td>
+      <td> Offline </td>
     </tr>
     <tr>
       <td><b> T A C O </b></td>
       <td> An improved ChatGPT frontend with shared API key </td>
-      <td> Svelte Kit, Prisma, TailwindCSS Postgres </td>
-      <td><a href="https://www.tacoai.app/"> www.tacoai.app/ </a></td>
+      <td> Svelte Kit, Prisma, TailwindCSS and Postgres </td>
+      <td><a href="https://www.tacoai.app/"> Taco AI </a></td>
     </tr>
 	  <tr>
       <td><b> Satsuma </b></td>
       <td> A smart collaborative shopping list </td>
-      <td> Svelte Kit, Pocketbase </td>
-      <td><a href="https://satsuma.lol/"> Satsuma </a></td>
+      <td> Svelte Kit, TailwindCSS, Drizzel ORM and PostgreSQL </td>
+      <td><a href="https://satsuma-322t.onrender.com/"> Satsuma </a></td>
+    </tr>
+    <tr>
+      <td><b> Roundnet Sweden Website </b></td>
+      <td> Homepage of Roundnet Sweden Association </td>
+      <td> Svelte Kit, TailwindCSS and Contentful </td>
+      <td><a href="https://roundnetsweden.org/"> Roudnet Sweden </a></td>
     </tr>
   </tbody>
 </table>
