@@ -97,5 +97,11 @@ These are projects that are build by myself or where created in collaboration
       <td> Svelte Kit, TailwindCSS and Contentful </td>
       <td><a href="https://roundnetsweden.org/"> Roudnet Sweden </a></td>
     </tr>
+    <tr>
+      <td><b> Basoi - Tournament Generator </b></td>
+      <td> Website to generate Roundnet/Beach Volleball tournaments </td>
+      <td> Svelte Kit, TailwindCSS, Drizzel ORM </td>
+      <td><a href="https://www.basoi.com/"> Basoi </a></td>
+    </tr>
   </tbody>
 </table>
