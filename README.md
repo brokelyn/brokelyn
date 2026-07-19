@@ -29,15 +29,11 @@ I am Philipp, a software developer currently working and living in Sweden 🍂
   &nbsp;
   <img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=#4FC08D" alt="Vue.js Logo title="Blazor" height="25" />
   &nbsp;
-  <img src="https://img.shields.io/badge/.NET-282C34?logo=.NET&logoColor=#512BD4" alt=".Net Logo" title=".Net" height="25" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=#3776AB" alt="Python Logo" title="Python" height="25" />
   &nbsp;
-  <img src="https://img.shields.io/badge/RaspberryPi-282C34?logo=Raspberry Pi&logoColor=#A22846" alt="Raspberry Pi Logo" title="Raspberry Pi" height="25" />
+  <img src="https://img.shields.io/badge/RaspberryPi-282C34?logo=raspberrypi&logoColor=#A22846" alt="Raspberry Pi Logo" title="Raspberry Pi" height="25" />
   &nbsp;
   <img src="https://img.shields.io/badge/Arduino-282C34?logo=Arduino&logoColor=#00979D" alt="Arduino Logo" title="Arduino" height="25" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Godot-282C34?logo=Godot Engine&logoColor=#478CBF" alt="Godot Logo" title="Godot" height="25" />
 </div>
 
 ## 📚 Interested in these topics
@@ -89,13 +85,7 @@ These are projects that are build by myself or where created in collaboration
       <td><b> Satsuma </b></td>
       <td> A smart collaborative shopping list </td>
       <td> Svelte Kit, TailwindCSS, Drizzel ORM and PostgreSQL </td>
-      <td><a href="https://satsuma-322t.onrender.com/"> Satsuma </a></td>
-    </tr>
-    <tr>
-      <td><b> Roundnet Sweden Website </b></td>
-      <td> Homepage of Roundnet Sweden Association </td>
-      <td> Svelte Kit, TailwindCSS and Contentful </td>
-      <td><a href="https://roundnetsweden.org/"> Roudnet Sweden </a></td>
+      <td><a href="https://satsuma.space/"> Satsuma </a></td>
     </tr>
     <tr>
       <td><b> Basoi - Tournament Generator </b></td>
